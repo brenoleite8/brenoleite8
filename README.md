@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Breno Leite Neto, I'm PHP programmer since 2019, focused on Adianti Framework.
 - 👀 I’m interested in PHP, HTML, CSS, JavaScript, JQuery, PostgreSQL, etc.
-- 🌱 I’m currently learning PHP, but with curiosity in JavaScript and Web3.
+- 🌱 I’m currently learning Laravel, but with curiosity in Filament.
 - 💞️ I’m looking to collaborate on projects that I can help you with my knwoledged.
 - 📫 How to reach me: brenoleite8@outlook.com
 
